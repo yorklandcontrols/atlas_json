@@ -1,0 +1,26 @@
+{
+"sensor_list": [{
+"floor": "9F",
+"zone": "A ZONE",
+"sensor": "TEST007",
+"data_list": {
+"CO2":"497",
+"CO":"0.1",
+"TVOC":"16",
+"PM10":"2.3",
+"PM25":"2.1",
+"PM01":"1.1",
+"HCHO":"9.7",
+"NO2":"29.7",
+"O3":"19.5",
+"NH3":"16.8",
+"Temp":"19.7",
+"RH":"37.9",
+"Lux":"0",
+"dBA":"40.9",
+"MOTION":null,
+"satisfaction":”70.785”
+}],
+"update_date": "2019-07-11 12:30:09",
+"rst_code": 1
+}
